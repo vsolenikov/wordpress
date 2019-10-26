@@ -1,0 +1,789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Preschool and Kindergarten v10.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-02-07 20:55+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ preschool-and-kindergarten
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+# @ preschool-and-kindergarten
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Комментарий"
+msgstr[1] "%1$s Комментариев"
+
+# @ preschool-and-kindergarten
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ preschool-and-kindergarten
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ preschool-and-kindergarten
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ preschool-and-kindergarten
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ preschool-and-kindergarten
+#: comments.php:76
+msgid "Required fields are marked"
+msgstr "Обязательные поля помечены"
+
+# @ preschool-and-kindergarten
+#: comments.php:81
+msgid "Name*"
+msgstr "Имя*"
+
+# @ preschool-and-kindergarten
+#: comments.php:85
+msgid "Email*"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: comments.php:89
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ preschool-and-kindergarten
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+# @ preschool-and-kindergarten
+#: comments.php:100
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Написать ответ для %s"
+
+# @ preschool-and-kindergarten
+#: comments.php:101
+msgid "Cancel Reply"
+msgstr "Отменить Ответ"
+
+# @ preschool-and-kindergarten
+#: comments.php:102
+msgid "Submit"
+msgstr "Отправить"
+
+# @ preschool-and-kindergarten
+#: comments.php:106
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ preschool-and-kindergarten
+#: comments.php:111
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=“%s”>войти</a> чтобы оставить комментарий."
+
+# @ preschool-and-kindergarten
+#: comments.php:117
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Вы вошли в систему как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из этой учётной записи\">Выйти?</a>"
+
+# @ preschool-and-kindergarten
+#: comments.php:124
+msgid "Your email address will not be published. "
+msgstr "Ваш e-mail не будет опубликован."
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:55
+msgid "Primary"
+msgstr "Основное"
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:290 inc/customizer/social.php:50
+msgid "Facebook"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:294 inc/customizer/social.php:69
+msgid "Twitter"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:298 inc/customizer/social.php:87
+msgid "Google Plus"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:302 inc/customizer/social.php:105
+msgid "LinkedIn"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:306 inc/customizer/social.php:122
+msgid "Pinterest"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:310 inc/customizer/social.php:140
+msgid "Instagram"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/custom-functions.php:314
+msgid "Youtube"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:15
+msgid "Breadcrumb Settings"
+msgstr "Параметры навигации"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:34
+msgid "Enable Breadcrumb"
+msgstr "Включить \"хлебные крошки\""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:52
+msgid "Show current"
+msgstr "Показать текущий"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:62 inc/extras.php:119
+msgid "Home"
+msgstr "Главная"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:70
+msgid "Breadcrumb Home Text"
+msgstr "Хлебные крошки - текст на главной"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:80 inc/extras.php:118
+msgid ">"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/breadcrumb.php:88
+msgid "Breadcrumb Separator"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/custom.php:13
+msgid "Custom CSS Settings"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/custom.php:31
+msgid "Custom Css"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/custom.php:33
+msgid "Put your custom CSS"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/customizer.php:18
+msgid "Choose Post"
+msgstr "Выбрать запись"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/customizer.php:26
+msgid "Choose Page"
+msgstr "Выбрать страницу"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/customizer.php:42
+msgid "Choose Category"
+msgstr "Выбор категории"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/default.php:18
+msgid "Default section provided by wordpress customizer"
+msgstr "Секция по умолчанию, предоставляемая настройщиком WordPress."
+
+# @ preschool-and-kindergarten
+#: inc/customizer/header.php:14
+msgid "Header Setting"
+msgstr "Настройки Заголовока"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/header.php:32
+msgid "Email Address"
+msgstr "Email адрес"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/header.php:50
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/about.php:15
+msgid "About Section"
+msgstr "Раздел О компании"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/about.php:33
+msgid "Enable About Section"
+msgstr "Включить раздел О компании"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/about.php:51
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:15
+msgid "Slider Settings"
+msgstr "Настройка Слайдера"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:33
+msgid "Enable Slider Section"
+msgstr "Включить сайдер"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:51
+msgid "Enable Slider Auto Transition"
+msgstr "Включить автоматический переход"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:69
+msgid "Enable Slider Loop"
+msgstr "Включить зацикленный режим слайдера."
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:87
+msgid "Enable Slider Control"
+msgstr "Включить кнопки перехода"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:105
+msgid "Enable Slider Caption"
+msgstr "Включить подпись слайдера"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:123
+msgid "Choose Slider Animation"
+msgstr "Включить анимацию слайдера"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:127
+msgid "Fade"
+msgstr "Исчезновение"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:128
+msgid "Slide"
+msgstr "Слайд"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:145
+msgid "Slider Speed"
+msgstr "Скорость слайдера"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:163
+msgid "Animation Speed"
+msgstr "Скорость анимации"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:173 sections/banners.php:10
+msgid "Continue Reading"
+msgstr "Подробнее "
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:181
+msgid "Readmore Text"
+msgstr "Текст \"Читать далее\""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/banners.php:199
+msgid "Choose Slider Category"
+msgstr "Выбать категорию для слайдера"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/lessons.php:15
+msgid "Lessons Section"
+msgstr "Уроки раздел"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/lessons.php:33
+msgid "Enable Lessons Section"
+msgstr "Включить раздел уроки"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/lessons.php:50 inc/customizer/home/news.php:49
+#: inc/customizer/home/program.php:50 inc/customizer/home/promotional.php:49
+#: inc/customizer/home/services.php:50 inc/customizer/home/staff.php:50
+#: inc/customizer/home/testimonials.php:51
+msgid "Section Title"
+msgstr "Название раздела"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/lessons.php:66 inc/customizer/home/news.php:65
+#: inc/customizer/home/program.php:66 inc/customizer/home/promotional.php:65
+#: inc/customizer/home/services.php:66 inc/customizer/home/staff.php:66
+#: inc/customizer/home/testimonials.php:67
+msgid "Section Description"
+msgstr "Описание секции"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/lessons.php:83 inc/customizer/home/lessons.php:102
+#: inc/customizer/home/lessons.php:121
+msgid "Select Post"
+msgstr "﻿Выберите запись"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/news.php:14
+msgid "News Section"
+msgstr "Новый раздел"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/news.php:32
+msgid "Enable News Section"
+msgstr "Включить раздел новостей"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/program.php:15
+msgid "Program Section"
+msgstr "Раздел программы"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/program.php:33
+msgid "Enable Program Section"
+msgstr "Включить раздел программы"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/program.php:84
+msgid "Select Program Post One"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/program.php:103
+msgid "Select Program Post Two"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/program.php:122
+msgid "Select Program Post Three"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/promotional.php:14
+msgid "promotional Block Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/promotional.php:32
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/promotional.php:83
+msgid "Button Label"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/promotional.php:100
+msgid "Button Link"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/services.php:15
+msgid "Services Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/services.php:33
+msgid "Enable Services Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/services.php:85
+msgid "Select Service Post"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/staff.php:15
+msgid "Team Section"
+msgstr "Секция Команда"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/staff.php:33
+msgid "Enable Team Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/staff.php:84
+msgid "Select Post One"
+msgstr "Выбрать первую запись"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/staff.php:103
+msgid "Select Post Two"
+msgstr "Выбрать вторую запись"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/staff.php:122
+msgid "Select Post Three"
+msgstr "Выбрать третью запись"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/testimonials.php:16
+msgid "Testimonials Section"
+msgstr "Секция характеристик"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/testimonials.php:34
+msgid "Enable Testimonials Section"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home/testimonials.php:86
+msgid "Choose Testimonials Category"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr "Настройки Главной страницы"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/social.php:13
+msgid "Social Settings"
+msgstr "Социальные сети"
+
+# @ preschool-and-kindergarten
+#: inc/customizer/social.php:14
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/social.php:32
+msgid "Enable Social Links in Header"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/customizer/social.php:158
+msgid "YouTube"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:22
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr " %s"
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:27
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr "Автор: %s"
+
+# @ preschool-and-kindergarten
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:36 inc/extras.php:62
+msgid ", "
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:38
+#, php-format
+msgid "In %1$s"
+msgstr "Категория: %1$s"
+
+# @ preschool-and-kindergarten
+#. translators: %s: post title
+#: inc/extras.php:45
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий <span class=\"screen-reader-text\">на %s</span>"
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:64
+#, php-format
+msgid " %1$s "
+msgstr ""
+
+# @ preschool-and-kindergarten
+#. translators: %s: Name of current post
+#: inc/extras.php:71
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:143
+msgid "Search Results for \""
+msgstr "Результаты поиска для \""
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:143
+msgid "\""
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:215
+msgid "404 Error - Page not Found"
+msgstr "Ошибка 404 - Страница не найдена"
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:253
+msgid " Prev "
+msgstr " Назад "
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:254
+msgid " Next "
+msgstr " Вперед "
+
+# @ preschool-and-kindergarten
+#: inc/extras.php:255
+msgid "Page"
+msgstr "Страница "
+
+# @ preschool-and-kindergarten
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr "Расположение Сайдбара"
+
+# @ preschool-and-kindergarten
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr "Правый сайдбар (по умолчанию)"
+
+# @ preschool-and-kindergarten
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr "Без сайдбара"
+
+# @ preschool-and-kindergarten
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Выберите шаблон боковой панели"
+
+# @ preschool-and-kindergarten
+#: inc/template-functions.php:206
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результататы поискаr: %s"
+
+# @ preschool-and-kindergarten
+#: inc/template-functions.php:214
+msgid "404 - Page not found"
+msgstr "404 - Страница не найдена"
+
+# @ preschool-and-kindergarten
+#: inc/template-functions.php:303
+#, php-format
+msgid "Posted by %s"
+msgstr "Автор %s"
+
+# @ preschool-and-kindergarten
+#: inc/template-functions.php:403
+msgid "&copy; Copyright "
+msgstr "&copy; Авторские права"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Популярные записи"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Виджет \"Популярные записи\""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:40
+#: inc/widgets/widget-popular-post.php:103
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:76
+#: inc/widgets/widget-popular-post.php:77 inc/widgets/widget-recent-post.php:75
+#: inc/widgets/widget-recent-post.php:76
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-social-links.php:67
+msgid "Title"
+msgstr "Заголовок "
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:122
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr "Показать миниатюру записи"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-popular-post.php:127
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr "Показать дату публикации"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Последние записи"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Виджет \"Свежие записи\""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-recent-post.php:40 inc/widgets/widget-recent-post.php:102
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Социальные сети"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Виджет социальных ссылок"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-social-links.php:41
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:91
+msgid "Social Media"
+msgstr "Социальные сети"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widget-social-links.php:72
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:8
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:10 inc/widgets/widgets.php:20
+#: inc/widgets/widgets.php:30 inc/widgets/widgets.php:40
+#: inc/widgets/widgets.php:50
+msgid "Add widgets here."
+msgstr "Добавить виджеты"
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:18
+msgid "Footer One"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:28
+msgid "Footer Two"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:38
+msgid "Footer Three"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: inc/widgets/widgets.php:48
+msgid "Footer Four"
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: sections/about.php:34 template-parts/content.php:44
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ preschool-and-kindergarten
+#: sections/news.php:43 sections/program.php:50 sections/promotional.php:10
+msgid "View Details"
+msgstr "Показать детали"
+
+# @ preschool-and-kindergarten
+#: sections/testimonials.php:34
+msgid "- "
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: sections/testimonials.php:38
+msgid " , "
+msgstr ""
+
+# @ preschool-and-kindergarten
+#: template-parts/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ preschool-and-kindergarten
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте, использовать другие ключевые слова."
+
+# @ preschool-and-kindergarten
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Может быть, получится через форму поиска."
+
+# @ preschool-and-kindergarten
+#: template-parts/content-page.php:28 template-parts/content-single.php:33
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ preschool-and-kindergarten
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:28 template-parts/content.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Подробнее %s <span class=\"meta-nav\">&rarr;</span>"
